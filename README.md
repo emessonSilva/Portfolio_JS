@@ -19,7 +19,7 @@ This project consists of a responsive portfolio website. It includes sections fo
 
 ## Screenshots
 
-![image](https://github.com/emessonSilva/Portfolio/assets/140443316/21ccdc28-cc54-4c68-bb24-a5386fa796ab)
+![image](https://github.com/emessonSilva/Portfolio_JS/assets/140443316/be3eed0a-e843-4afd-978d-22816b100609)
 
 ![image](https://github.com/emessonSilva/Portfolio/assets/140443316/1527d0e9-80ec-4e5b-9b30-bd2409a3c3b6)
 
@@ -44,6 +44,7 @@ This project consists of a responsive portfolio website. It includes sections fo
 
 - HTML
 - CSS
+- JS
 - Font Awesome
 
 ## Usage
