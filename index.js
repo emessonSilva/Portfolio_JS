@@ -1,4 +1,5 @@
 
+
 let themeEnabled = false;
 
 function changeTheme() {
@@ -32,13 +33,12 @@ function activeLetter(element) {
   
   function initializeTypingAnimation() {
     const title = document.querySelector('.typing');
+    const paragraph = document.querySelector('.typing-paragraph'); 
     activeLetter(title);
+    activeLetter(paragraph); 
   }
   
   document.addEventListener('DOMContentLoaded', initializeTypingAnimation);
-  
-
-  
 
 
   
