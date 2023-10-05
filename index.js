@@ -20,5 +20,25 @@ function changeTheme() {
     }
 }
 
+function activeLetter(element) {
+    const arrText = element.innerHTML.split('');
+    element.innerHTML = '';
+    arrText.forEach((letter, i) => {
+      setTimeout(() => {
+        element.innerHTML += letter;
+      }, 100 * i);
+    });
+  }
+  
+  function initializeTypingAnimation() {
+    const title = document.querySelector('.typing');
+    activeLetter(title);
+  }
+  
+  document.addEventListener('DOMContentLoaded', initializeTypingAnimation);
+  
+
+  
+
 
   
