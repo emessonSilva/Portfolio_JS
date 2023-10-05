@@ -57,4 +57,11 @@ To use this code and modify it for your own portfolio, follow these steps:
 
 ## Contact
 
-For inquiries or further information, feel free to contact me at emessonbarbosa600@gmail.com.
+For inquiries or further information, feel free to contact me at emessonbarbosa600@gmail.com
+
+## Live Portfolio
+
+Click the link below to view the portfolio live.
+
+https://emessonsilva.github.io/Portfolio_JS/
+
